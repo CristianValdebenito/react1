@@ -1,0 +1,1 @@
+Ejercicio: Hacer 3 componentes de clase (Header, Home, Footer) que van a recibir diferente data desde App.js
