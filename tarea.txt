@@ -1,1 +1,17 @@
 Ejercicio: Hacer 3 componentes de clase (Header, Home, Footer) que van a recibir diferente data desde App.js
+
+ejercico 2 (formulario con componentes funcionales):
+Actividad: Realizar un formulario de registro con los siguientes campos:
+*Nombre
+*Edad
+*Profesión
+*Dirección
+*Intereses
+Imprimir en otra sección lo ingresado en el formulario
+Bonus: Imprimirlo en otro componente (pasarlo por props)
+
+
+TAREA 3:
+/Crear una clase Account (como una cuenta de banco), 
+// que pueda abonar, retirar y transferir dinero
+la idea es que sea hecho en una clase objeto de javascript puro. Puede llamar a componentes de react si quieres ....

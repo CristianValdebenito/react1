@@ -1,0 +1,16 @@
+import React, {useState} from 'react';
+
+const Formulario = (props) => {
+    const handlernameUser=(e)=>{
+        setNameUser(e.target.value)
+    }
+    return (
+        <div>
+             <form action="">
+                    <input type="text" name="nameUser" value={nameUser} onChange={(e)=> handlernameUser}></input>
+             </form>
+        </div>
+    );
+}
+
+//export default Formulario;
